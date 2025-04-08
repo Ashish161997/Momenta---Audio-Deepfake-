@@ -1,4 +1,4 @@
-# 🎧 **Momenta - Audio Deepfake Detection Take-Home Assessment** 🎶
+# 🎧 **Momenta - Audio Deepfake Detection ** 🎶
 
 Welcome to the documentation of my approach and results for the **Audio Deepfake Detection** take-home assessment. The task involves detecting synthetic or deepfake audio using state-of-the-art models and techniques. Below is a breakdown of the steps taken, model selection, and the final results.
 
